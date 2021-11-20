@@ -1,0 +1,12 @@
+/Users/huzaifa/Desktop/AssignmentOne/obj/Debug/AssignmentOne.csproj.AssemblyReference.cache
+/Users/huzaifa/Desktop/AssignmentOne/obj/Debug/AssignmentOne.csproj.CoreCompileInputs.cache
+/Users/huzaifa/Desktop/AssignmentOne/bin/Debug/AssignmentOne.exe
+/Users/huzaifa/Desktop/AssignmentOne/bin/Debug/AssignmentOne.pdb
+/Users/huzaifa/Desktop/AssignmentOne/obj/Debug/AssignmentOne.exe
+/Users/huzaifa/Desktop/AssignmentOne/obj/Debug/AssignmentOne.pdb
+/Users/huzaifa/Desktop/AssignmentOne_Muhammad_Huzaifa_Khalid/bin/Debug/AssignmentOne.exe
+/Users/huzaifa/Desktop/AssignmentOne_Muhammad_Huzaifa_Khalid/bin/Debug/AssignmentOne.pdb
+/Users/huzaifa/Desktop/AssignmentOne_Muhammad_Huzaifa_Khalid/obj/Debug/AssignmentOne.csproj.AssemblyReference.cache
+/Users/huzaifa/Desktop/AssignmentOne_Muhammad_Huzaifa_Khalid/obj/Debug/AssignmentOne.csproj.CoreCompileInputs.cache
+/Users/huzaifa/Desktop/AssignmentOne_Muhammad_Huzaifa_Khalid/obj/Debug/AssignmentOne.exe
+/Users/huzaifa/Desktop/AssignmentOne_Muhammad_Huzaifa_Khalid/obj/Debug/AssignmentOne.pdb
